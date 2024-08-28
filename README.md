@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djelacik&label=Profile%20views&color=0e75b6&style=flat" alt="djelacik" /> </p>
 
+- 🧑🏼‍💻Currently studying Computer Science at **Hive Helsinki**
+
+- 🖥️ And Business Information Technology at **Haaga-Helia University of Applied Sciences**
+
 - 📲 Linkedin [https://www.linkedin.com/in/daniel-jelacik-56b99a249/](https://www.linkedin.com/in/daniel-jelacik-56b99a249/)
 
 - 📝 I regularly write articles on [https://medium.com/@daniel.jelacik](https://medium.com/@daniel.jelacik)
