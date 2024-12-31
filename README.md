@@ -19,7 +19,7 @@
 ### 🌐 Find Me Online
 
 - 📲 [LinkedIn](https://www.linkedin.com/in/daniel-jelacik-56b99a249/) – Connect with me professionally.  
-- 📝 [Medium](https://medium.com/@daniel.jelacik) – Check out my articles on technology and software development.  
+- 📝 [Medium](https://medium.com/@daniel.jelacik) – Check out my article on a project I did.
 - 📧 **daniel.jelacik@gmail.com** – Feel free to reach out for collaborations or inquiries.  
 
 ---
