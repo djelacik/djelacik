@@ -10,17 +10,16 @@
 ### 🧑🏼‍💻 About Me
 
 - 🎓 Recently graduated with a **Bachelor's degree in Business Information Technology** from **Haaga-Helia University of Applied Sciences**.  
-- 🖥️ Currently studying **Computer Science** at **Hive Helsinki**.  
-- 💼 Passionate about software development, problem-solving, and creating innovative solutions.  
-- 🌱 Constantly exploring new technologies, with a keen interest in **systems programming** and building efficient applications.  
+- 🖥️ Currently studying **Software Development** at **Hive Helsinki**.  
+- 💼 Into coding, solving problems, and building cool stuff that works.
 
 ---
 
 ### 🌐 Find Me Online
 
-- 📲 [LinkedIn](https://www.linkedin.com/in/daniel-jelacik-56b99a249/) – Connect with me professionally.  
+- 📲 [LinkedIn](https://www.linkedin.com/in/daniel-jelacik-56b99a249/) – Feel free to connect!  
 - 📝 [Medium](https://medium.com/@daniel.jelacik) – Check out my article on a project I did.
-- 📧 **daniel.jelacik@gmail.com** – Feel free to reach out for collaborations or inquiries.  
+- 📧 **daniel.jelacik@gmail.com** – Freely reach out for collaborations or inquiries.  
 
 ---
 
@@ -37,16 +36,6 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djelacik&show_icons=true&theme=tokyonight" alt="djelacik stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djelacik&theme=tokyonight" alt="djelacik streak" />
-</p>
 
 ---
 
