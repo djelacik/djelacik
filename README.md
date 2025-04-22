@@ -19,7 +19,7 @@
 
 - 📲 [LinkedIn](https://www.linkedin.com/in/daniel-jelacik-56b99a249/) – Feel free to connect!  
 - 📝 [Medium](https://medium.com/@daniel.jelacik) – Check out my article on a project I did.
-- 📧 **daniel.jelacik@gmail.com** – Freely reach out for collaborations or inquiries.  
+- 📧 **daniel@jelacik.com** – Freely reach out for collaborations or inquiries.  
 
 ---
 
