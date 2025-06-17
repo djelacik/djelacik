@@ -4,10 +4,6 @@ AI Developer and Technical Consultant from Finland
 
 I'm focused on building practical AI solutions that combine backend development, automation, and data-driven logic. My work includes LLM-powered agents, real-time forecasting pipelines, and internal tools designed to streamline workflows and deliver measurable results.
 
-Currently working with:
-Python, FastAPI, LangChain, OpenAI  
-Confluent Kafka, PostgreSQL, Prometheus  
-Streamlit, PyMuPDF, Playwright
 
 ## Tech Stack
 
